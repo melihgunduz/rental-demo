@@ -1,0 +1,6 @@
+.secret 
+.env
+.env.test
+.prettierrc
+build
+node_modules

@@ -1,0 +1,1 @@
+export const carREntalPlatformAddress = 0x8464A6d813B5FdEcb13293bB54a3D74fb969AB0d
